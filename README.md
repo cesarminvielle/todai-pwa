@@ -31,3 +31,12 @@ This PWA prototype (MVP1) demonstrates hosting, deployment, and the foundation o
 git clone https://github.com/cesarminvielle/todai-pwa.git
 cd todai-pwa
 firebase deploy
+
+---
+
+## 🧩 Project Structure
+todai-pwa/
+├── public/
+│   └── index.html
+├── firebase.json
+└── .firebaserc
